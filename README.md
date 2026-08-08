@@ -32,7 +32,6 @@ I’m motivated to keep learning, adapt to new challenges, and contribute to bui
 - Backend development and scalable applications  
 - Database systems (**SQL & NoSQL**)  
 - **AI and Machine Learning** fundamentals and applications  
-- System design and software engineering best practices
 
 ---
 ### Connect with Me
